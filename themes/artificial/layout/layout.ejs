@@ -1,0 +1,29 @@
+<html>
+
+<!-- Head tag -->
+<%- partial('_partial/head') %>
+
+<body>
+    <!-- Menu -->
+    <%- partial('_partial/menu') %>
+
+    <div class="container">
+
+        <div class="row">
+
+            <!-- Main Content -->
+            <div class="offset-lg-2 col-lg-8 col-xs-12 blog-main">
+                <%- body %>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <%- partial('_partial/footer') %>
+
+    <!-- After footer scripts -->
+    <%- partial('_partial/after-footer') %>
+</body>
+
+</html>
