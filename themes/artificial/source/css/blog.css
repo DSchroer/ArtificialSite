@@ -19,7 +19,7 @@
 
 body {
   font-family: "Roboto Slab", serif;
-  background-color: #9E9E9E;
+  background-color: #000010;
   color: #6B6B6B;
 }
 
@@ -54,7 +54,7 @@ h6, .h6 {
 
 .blog-masthead {
   margin-bottom: 40px;
-  background-color: #9E9E9E;
+  background-color: #000010;
   font-family: "Roboto Slab", serif;
   font-size: 20px;
   font-weight: bold;
@@ -203,10 +203,6 @@ h6, .h6 {
  */
 
 .blog-post {
-  background-color: #fff;
-  border-color: #831eb2;
-  border-style: solid;
-  border-width: 2px;
   padding: 45px 50px;
   margin-bottom: 40px;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
@@ -214,9 +210,16 @@ h6, .h6 {
   font-size: 14px;
 }
 
+.blog-post h2 {
+  text-align: center;
+  color: #fff;
+  font-size: 30px;
+}
+
 .blog-post-title {
   margin-bottom: .25rem;
   font-size: 2.5rem;
+  text-align: center;
 }
 .blog-post-meta {
   margin-bottom: 1.25rem;
@@ -234,7 +237,7 @@ h6, .h6 {
 }
 
 .navbar-padding {
-  padding-top: 40px;
+  padding-top: 300px;
 }
 
 #logo {
