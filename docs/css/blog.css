@@ -235,6 +235,7 @@ h6, .h6 {
 
 .navbar-padding {
   padding-top: 40px;
+  overflow: hidden;
 }
 
 #logo {
