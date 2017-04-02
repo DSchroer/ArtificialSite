@@ -1,10 +1,12 @@
-<div id="<%-number%>" class="row blog-post">
 
 	<a href="<%- url_for(item.path) %>">
 		<h2>
 			<%- item.title %>
 		</h2>
 	</a>
+
+<div id="<%-number%>" class="row blog-post">
+
 
 	<div class="markdown-body">
 		<%- item.excerpt %>
