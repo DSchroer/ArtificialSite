@@ -31,7 +31,7 @@ h5, .h5,
 h6, .h6 {
   font-family:   'Roboto Slab', serif;
   font-weight: normal;
-  color: #333;
+  color: #d6d6d6;
   font-weight: 700;
   line-height: 1.1;
   font-size: 28px;
@@ -202,7 +202,13 @@ h6, .h6 {
  * Blog posts
  */
 
+.markdown-body {
+  color: #9c9c9c
+}
+
 .blog-post {
+  background-color: rgba(148, 148, 148, 0.12);
+  border-radius: 30px;
   padding: 45px 50px;
   margin-bottom: 40px;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
@@ -210,7 +216,11 @@ h6, .h6 {
   font-size: 14px;
 }
 
-.blog-post h2 {
+.blog-post table {
+  display: inline-table
+}
+
+h2 {
   text-align: center;
   color: #fff;
   font-size: 30px;
@@ -237,7 +247,7 @@ h6, .h6 {
 }
 
 .navbar-padding {
-  padding-top: 250px;
+  padding-top: 100px;
 }
 
 .markdown-body img{
@@ -258,4 +268,24 @@ img.displayed {
     margin-left: auto;
     margin-right: auto;
     object-fit: contain;
+}
+
+.carousel-item-div {
+}
+
+.carousel-item-div iframe {
+  height: 50;
+  width: 100%;
+}
+
+.carousel-inner>.item {
+  width: 100%;
+}
+
+.markdown-body h2 {
+  border-bottom: 0;
+}
+
+.blog-post p {
+  font-size: 16pt;
 }
