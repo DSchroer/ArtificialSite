@@ -13,11 +13,9 @@ Enter the world of Artificial, a randomly generated dungeon crawler with a heavy
 
 ## Download Now
 
-* **Windows** \[Installer, Standalone\]
+* **Windows** \[[Installer](https://github.com/DSchroer/ArtificialSite/releases/download/2.0.0/Artificial_Win_Installer.exe), [Standalone](https://github.com/DSchroer/ArtificialSite/releases/download/2.0.0/Artificial_Win.exe)\]
 
-* **Mac** \[Standalone\]
-
-* **Linux** \[Standalone\]
+* **Linux** \[[Standalone](https://github.com/DSchroer/ArtificialSite/releases/download/2.0.0/Artificial_Linux.zip)\]
 
 ## Screenshots
 
