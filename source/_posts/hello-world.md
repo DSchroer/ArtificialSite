@@ -17,6 +17,10 @@ Enter the world of Artificial, a randomly generated dungeon crawler with a heavy
 
 * **Linux** \[[Standalone](https://github.com/DSchroer/ArtificialSite/releases/download/2.0.0/Artificial_Linux.zip)\]
 
+* **ITCH.IO** \[[Page](https://artificial.itch.io/artificial)\]
+
+* **Steam Workshop** \[[Page](http://steamcommunity.com/sharedfiles/filedetails/?id=897687669)\]
+
 ## Screenshots
 
 <div class='row'>
