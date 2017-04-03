@@ -21,6 +21,10 @@ Enter the world of Artificial, a randomly generated dungeon crawler with a heavy
 
 * **Steam Workshop** \[[Page](http://steamcommunity.com/sharedfiles/filedetails/?id=897687669)\]
 
+### Minimum System Requirements: 
+* Windows: DirectX 9 or Greater
+* Linux: OpenGL 3.0 or Greater
+
 ## Screenshots
 
 <div class='row'>
